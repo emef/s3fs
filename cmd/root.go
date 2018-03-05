@@ -133,7 +133,7 @@ func createDefaultConfig(defaultPath string) error {
 
 const DEFAULT_CONFIG = `; s3fs default config
 [s3]
-bucket=mforbes-s3fs
+bucket=
 region=us-east-1
 workers=20
 maxconcurrentreads=20
