@@ -1,5 +1,8 @@
 s3fs is a simple commandline tool and library to stream data to/from amazon s3. 
 
+**Install**
+`go get github.com/emef/s3fs`
+
 **Examples**
 
 ```
